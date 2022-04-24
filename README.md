@@ -75,7 +75,7 @@ Material shader creation and customization
 
 Using various data structures as required:
 
- - struct, class, enum, array, map
+ - struct, class, enum, array, map, etc.
 
 Efficient actor communication via C++ delegates / Blueprint event dispatchers
 
