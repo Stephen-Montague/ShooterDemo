@@ -1,0 +1,21 @@
+# Using git for project source code only. Ignore engine & other folders.
+UE_4.26  
+Backup
+Binaries
+Build
+Config
+Content
+DerivedDataCache
+Intermediate
+Saved
+Script
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
