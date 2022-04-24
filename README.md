@@ -1,7 +1,8 @@
 # ShooterDemo  
 #### 3'rd-person shooter demo written in C++ and powered by Unreal 4.26
-#### A customized recreation of Stephen Ulibarri's course project on Udemy:
-#### https://www.udemy.com/course/unreal-engine-the-ultimate-shooter-course/ 
+A customized recreation of Stephen Ulibarri's course project on Udemy:
+
+https://www.udemy.com/course/unreal-engine-the-ultimate-shooter-course/ 
 
 ### Features implemented:
 
@@ -26,11 +27,11 @@ Animations via Blueprints and C++ Anim Instances
 
 - Weapon fire with recoil animation
 
-- Weapon muzzle flash, impact particles, smoke trails, bullet shell ejection particles 
+- Weapon muzzle flash, impact, smoke trails, bullet-shell ejection particles 
 
-- Sound and visual effect cues (footstep, footprints, splash, etc.) via Anim Notifies to BP or C++
+- Sound and visual effects (footsteps, footprints, splash, etc.) via Anim Notifies to BP and C++
 
-- Dynamic character footsteps change depending on ground surface type (or if underwater, etc.)
+- Dynamic character footsteps change depending on ground surface type or if underwater
 
 Blending animations by enum, per bone, by bool and via montage slots 
 
@@ -38,9 +39,9 @@ Blending animations by enum, per bone, by bool and via montage slots
 
 Equip and Use Weapons 
 
-- Submachine gun, assault rifle (to add pistol soon).
+- Submachine gun, assault rifle (to add pistol soon)
 
-- Automatic gunfire (continuous firing via button press & hold).
+- Automatic gunfire (continuous firing via button press & hold)
 
 - Moving gun parts during reload animation (rifle magazine, to add pistol slide-action next)
 
@@ -66,7 +67,7 @@ Material Shader creation and customization, including:
 
 Retargeting single animations or entire Animation Blueprints 
 
-- Sharing animations between different character models. 
+- Sharing animations between different character models
 
 Using various data structures as required:
 
