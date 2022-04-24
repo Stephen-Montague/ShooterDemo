@@ -21,21 +21,29 @@ Character creation and movement
 
 Animations via Blueprints and C++ Anim Instances
 
-- Using State Machines, Blendspaces, Montage Slots, Animation Curves, Inverse Kinematics
+- Using State Machines, Blendspaces, Montage Slots
 
-- Reload weapon animation with UI and internal model updates 
+- Using Anim Notifies to connect animations to Blueprints and C++
 
-- Weapon fire with recoil animation
+- Using Animation Curves, Inverse Kinematics
+
+Blending animations by enum, per bone, by bool, and via slots 
+
+- Play different animations on different body parts at the same time
+
+- Reload weapon animation with internal ammunition update 
+
+- Weapon fires with adjustible recoil animation
 
 - Weapon muzzle flash, impact, smoke trails, bullet-shell ejection particles 
 
-- Sound and visual effects (footsteps, footprints, splash, etc.) via Anim Notifies to BP and C++
+- Sound and visual effects for footsteps, footprints, water splashing 
 
-- Dynamic character footsteps change depending on ground surface type or if underwater
+- Dynamic character footstep audio changes depending on ground surface type or if underwater
 
-Blending animations by enum, per bone, by bool and via montage slots 
+Retargeting single animations or entire Animation Blueprints 
 
-- Play different animations on different body parts at the same time
+- Sharing animations between different character models
 
 Equip and Use Weapons 
 
@@ -59,15 +67,11 @@ Data Tables in BP and C++ to setup:
 
 - Item names, types, count, rarity
 
-Material Shader creation and customization, including:
+Material shader creation and customization
 
 - Post-process materials for outline FX, underwater FX, darkness FX 
 
-- Dynamic material instances to change materials at runtime
-
-Retargeting single animations or entire Animation Blueprints 
-
-- Sharing animations between different character models
+- Dynamic material instances to update materials at runtime
 
 Using various data structures as required:
 
