@@ -1,6 +1,10 @@
 # ShooterDemo  
 #### 3'rd-person shooter demo written in C++ and powered by Unreal 4.26
-A customized recreation of Stephen Ulibarri's course project on Udemy:
+I'll be posting some video logs of this project here:   
+
+https://www.youtube.com/channel/UCSR2NmoF5DqlLigxub62pVw
+
+This is a customized recreation of Stephen Ulibarri's course project on Udemy:
 
 https://www.udemy.com/course/unreal-engine-the-ultimate-shooter-course/ 
 
