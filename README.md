@@ -1,6 +1,6 @@
 # ShooterDemo  
 #### 3'rd-person shooter demo written in C++ and powered by Unreal 4.26
-I'll be posting some video logs of this project here:   
+Will be posting video clips of this project here:   
 
 https://www.youtube.com/channel/UCSR2NmoF5DqlLigxub62pVw
 
