@@ -84,3 +84,9 @@ Using various data structures as required:
 Efficient actor communication via C++ delegates / Blueprint event dispatchers
 
 Level prototyping with hundreds of objects via organized folders
+
+---
+
+Related:
+
+On another Unreal project... (in a private repo) I've also used Unreal Blueprints to code a fairly fun little science-fiction arcade game.  It uses an overhead twin-stick / mouse-keyboard shooter style, but many of the concepts used here in C++ I developed in Blueprints and then built those into "Nativized" C++ files for performance.  If you'd like to play the [game](https://stephen-montague.itch.io/going-home), please do and feel free to give ideas for further development!  🙂
