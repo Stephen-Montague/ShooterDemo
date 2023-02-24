@@ -1,4 +1,4 @@
-# Using git for project source code only. Ignore engine & other folders.
+# Git for cpp source code, ignore game content, engine, etc.
 UE_4.26  
 Backup
 Binaries
@@ -17,5 +17,6 @@ Script
 *.sdf
 *.sln
 *.suo
+*.uproject
 *.xcodeproj
 *.xcworkspace
